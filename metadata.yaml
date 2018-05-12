@@ -1,0 +1,46 @@
+_repo: The-Magic-Nuts_39662
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pitman, Rosie M. M.
+    alias: Pitman, Rosie
+    gutenberg_agent_id: '40138'
+    url: http://www.gutenberg.org/2009/agents/40138
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2012-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Governesses -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Mermaids -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Loneliness -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Motherless families -- Juvenile fiction'
+title: The Magic Nuts
+url: http://www.gutenberg.org/ebooks/39662
